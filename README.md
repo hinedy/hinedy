@@ -35,5 +35,5 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hinedy&label=Profile%20visits&color=e67eeb&style=flat-square" alt="hinedy" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=hinedy&label=Profile%20visits&color=e67eeb&style=flat-square" alt="hinedy" /> </p> --!>
 
