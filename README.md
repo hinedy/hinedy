@@ -24,9 +24,6 @@
   <a href="https://www.behance.net/ahmedhinedy" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/behance.png" width="40"/>
   </a><span>&nbsp;</span>
-  <a href="https://dribbble.com/ahmedhinedy" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/dribbble.png" width="40"/>
-  </a><span>&nbsp;</span>
   <a href="https://github.com/hinedy" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/>
   </a><span>&nbsp;</span>
