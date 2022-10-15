@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hinedy</h1>
-<h3 align="center">A passionate frontend developer from Egypt learning about web design and looking to create immersive user experiences.</h3>
+<h3 align="center">A Mechanical Engineer turned Frontend Developer with an eye for detail and design and strong problem-solving skills pursuing a career in web development where I can create memorable and immersive digital user experiences.</h3>
 
 
 
-- 🌱 I’m currently learning **CS50x, Resposnive Web Design and JavaScript Algorithms and Data Structures.**
+- 🌱 I’m currently learning **The Frontend Developer Career Path on Scrimba.**
+
+- 🤹 Currently juggling **Three side projects.**
 
 - 📫 Contact me on **ahmedhinedy@gmail.com**
 
