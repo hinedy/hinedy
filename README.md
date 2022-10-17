@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The Frontend Developer Career Path on Scrimba.**
 
-- 🤹 Currently juggling **Three side projects.**
+- 🤹 Currently Building **JavaScript projects.**
 
 - 📫 Contact me on **ahmedhinedy@gmail.com**
 
@@ -33,6 +33,7 @@
   
 </p>
 
+[![@hinedy's Holopin board](https://holopin.me/hinedy)](https://holopin.io/@hinedy)
 
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=hinedy&label=Profile%20visits&color=e67eeb&style=flat-square" alt="hinedy" /> </p> --!>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=hinedy&label=Profile%20visits&color=e67eeb&style=flat-square" alt="hinedy" /> </p> -->
 
