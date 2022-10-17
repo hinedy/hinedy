@@ -26,12 +26,15 @@
   <a href="https://www.behance.net/ahmedhinedy" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/behance.png" width="40"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/hinedy" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/>
-  </a><span>&nbsp;</span>
   <a href="mailto:ahmedhinedy@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
   </a><span>&nbsp;</span>
+  <a href="https://github.com/hinedy" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/>
+  </a><span>&nbsp;</span>
+  <a href="https://dev.to/hinedy"target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png" width="40"/>
+  </a>
   
 </p>
 
