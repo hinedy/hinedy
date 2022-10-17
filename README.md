@@ -7,6 +7,8 @@
 
 - 🤹 Currently Building **JavaScript projects.**
 
+- 💻 Hacktoberfest '22
+
 - 📫 Contact me on **ahmedhinedy@gmail.com**
 
 
