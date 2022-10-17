@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hinedy</h1>
-<h3 align="center">A Mechanical Engineer turned Frontend Developer with an eye for detail and design and strong problem-solving skills pursuing a career in web development where I can create memorable and immersive digital user experiences.</h3>
+<h3 align="center">Aesthetics-focused Frontend Developer with an eye for detail and design and strong problem-solving skills pursuing a career in web development where I can create memorable and immersive digital user experiences.</h3>
 
 
 
