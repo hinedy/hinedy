@@ -21,19 +21,19 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
     <a href="https://www.linkedin.com/in/ahmedhinedy/" target="_blank">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="Ahmed Hinedy on linkedin"/>
     </a><span>&nbsp;</span>
   <a href="https://www.behance.net/ahmedhinedy" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/behance.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/behance.png" width="40" alt="Ahmed hinedy on behance"/>
   </a><span>&nbsp;</span>
   <a href="mailto:ahmedhinedy@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40" alt="mail to ahmed hinedy"/>
   </a><span>&nbsp;</span>
   <a href="https://github.com/hinedy" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40"/>
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="ahmed hinedy on github"/>
   </a><span>&nbsp;</span>
   <a href="https://dev.to/hinedy"target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png" width="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png" width="40" alt="ahmed hinedy on dev.to"/>
   </a>
   
 </p>
