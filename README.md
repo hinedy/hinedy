@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **The Frontend Developer Career Path on Scrimba.**
 
-- 🤹 Currently Building **JavaScript projects.**
+- 🤹 Currently Building **CS50x Final Project**
 
-- 💻 Hacktoberfest '22
+- 👨‍💻 Hacktoberfest '22
 
 - 📫 Contact me on **ahmedhinedy@gmail.com**
 
