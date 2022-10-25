@@ -7,7 +7,7 @@
 
 - 🤹 Currently Building **CS50x Final Project**
 
-- 👨‍💻 Hacktoberfest '22
+- 👨‍💻 Open Source Contributor **Hacktoberfest '22**
 
 - 📫 Contact me on **ahmedhinedy@gmail.com**
 
