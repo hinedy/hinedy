@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The Frontend Developer Career Path on Scrimba.**
 
-- 🤹 Currently Building **CS50x Final Project**
+- 🤹 Currently Building **My Portfolio**
 
 - 👨‍💻 Open Source Contributor **Hacktoberfest '22**
 
