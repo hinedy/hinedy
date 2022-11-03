@@ -32,7 +32,7 @@
   <a href="https://github.com/hinedy" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="ahmed hinedy on github"/>
   </a><span>&nbsp;</span>
-  <a href="https://dev.to/hinedy"target="_blank">
+  <a href="https://dev.to/hinedy" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/dev-2752213-2285030.png" width="40" alt="ahmed hinedy on dev.to"/>
   </a>
   
