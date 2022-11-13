@@ -11,7 +11,7 @@
 
 - 📫 Contact me on **ahmedhinedy@gmail.com**
 
-- 👀 See my latest [**Projects**](https://github.com/hinedy/projects)
+- 👀 Check out my latest [**Projects**](https://github.com/hinedy/projects)
 
 
 <h3 align="center">Languages and Tools:</h3>
