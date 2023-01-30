@@ -3,7 +3,8 @@
 
 
 
-- 🌱 I’m currently learning **The Frontend Developer Career Path on Scrimba.**
+- 🌱 I’m curently working on something different than what I was working on at the time I wrote this.
+
 
 - 🤹 Currently Building **My Portfolio**
 
